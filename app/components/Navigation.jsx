@@ -80,7 +80,6 @@ export default function Navigation() {
                   weight={60}
                   height={60}
                   alt='logo'
-                  className='rounded-full'
                 />
               </span>
               Express
