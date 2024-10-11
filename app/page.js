@@ -1,5 +1,7 @@
+import Hero from "./components/Hero"
+
 export default function Home() {
   return (
-    <h1 className='text-center justify-center'>Home</h1>
+    <Hero className="pt-32 md:pt-22 pb-22"/>
   );
 }
